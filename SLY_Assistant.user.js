@@ -26,7 +26,10 @@
     let customWriteRPCs = [];
 
     let saRPCs = [
-        'https://rpc.ironforge.network/mainnet?apiKey=01JEEEQP3FTZJFCP5RCCKB2NSQ',
+        'yep and replace 
+https://rpc.ironforge.network/mainnet?apiKey= 
+with
+https://mainnet-rpc.staratlas.com/mainnet?apiKey=01JEEEQP3FTZJFCP5RCCKB2NSQ',
     ];
     let readRPCs = customReadRPCs.concat(saRPCs);
     let writeRPCs = customWriteRPCs.concat(saRPCs);
